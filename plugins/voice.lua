@@ -13,7 +13,7 @@ return {
     "tts [text]: Convert text to voice"
   },
   patterns = {
-    "^!vc (.+)$"
+    "^/vc (.+)$"
   },
   run = run
 }
